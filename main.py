@@ -5,8 +5,8 @@ import pandas
 import datetime as dt
 from random import randint
 # ----------Credenciales-----------
-my_email = 'marco.a.ponce.p@gmail.com'
-password = '&+7UdnP*VO7je'
+my_email = '#######@gmail.com'
+password = '#######'
 
 
 
